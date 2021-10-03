@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  width: 80%;
+}
+img{
+  width: 60px;
+}
+.output{
+  margin: 20px;
+  display: flex;
+  width: 80%;
+}
+.output div{
+  margin: 10px;
+  width: 31%;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #f0f0f0;  
+  border-radius: 5px;
+}
+
+.output div h6{
+  padding: 5px;
+  margin: 0;
+}
+select{
+  padding: 10px;
+
+}
